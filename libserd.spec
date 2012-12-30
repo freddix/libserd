@@ -1,11 +1,11 @@
 Summary:	Lightweight C library for RDF syntax
 Name:		libserd
-Version:	0.18.0
+Version:	0.18.2
 Release:	1
 License:	GPL v2
 Group:		Libraries
 Source0:	http://download.drobilla.net/serd-%{version}.tar.bz2
-# Source0-md5:	96dbade2c81d6df8100a9ef605ce35f8
+# Source0-md5:	0569c21860b2ed2744e42884069a40a2
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
